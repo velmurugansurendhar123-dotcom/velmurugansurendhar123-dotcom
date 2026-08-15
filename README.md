@@ -205,17 +205,22 @@ I don't just want to build models — I want to build **useful, deployable and i
 <!-- =========================
      FEATURED PROJECTS
      ========================= -->
-
 <div align="center">
 
 ## 🚀 Featured Projects
 
+<p>
+  <i>Building AI-powered solutions for real-world problems.</i>
+</p>
+
 </div>
+
+<br>
 
 <table>
 <tr>
 
-<td width="33%" valign="top">
+<td width="33.33%" valign="top">
 
 <div align="center">
 
@@ -223,63 +228,63 @@ I don't just want to build models — I want to build **useful, deployable and i
 
 **AI-Powered Campus Placement Platform**
 
+<img src="https://img.shields.io/badge/AI%20%26%20ML-C77DFF?style=flat-square">
+<img src="https://img.shields.io/badge/Automation-7C3AED?style=flat-square">
+
 </div>
 
-An intelligent platform designed to simplify and manage the campus placement process for **students, administrators and recruiters**.
+An intelligent platform that simplifies campus placements by connecting **students, administrators, and recruiters** through a centralized system.
 
-**Highlights**
+**What it does**
 
-- Student placement management
-- Recruitment workflow support
-- AI-powered assistance
-- Centralized placement information
-- Modern web application architecture
-
-**Focus:** AI · Automation · Placement Technology
+- 🎓 Placement management
+- 🤖 AI-powered assistance
+- 🏢 Recruiter workflow
+- 📋 Centralized information
 
 <div align="center">
 
 <a href="https://github.com/velmurugansurendhar123-dotcom/CampusDrive-AI">
-  <img src="https://img.shields.io/badge/View%20Project-C77DFF?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-FF6EC7?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
 
 </td>
 
-<td width="33%" valign="top">
+<td width="33.33%" valign="top">
 
 <div align="center">
 
 ### 🌾 Agriwise AI
 
-**Smart Agriculture Decision Support**
+**Smart Agriculture Platform**
+
+<img src="https://img.shields.io/badge/AI%20%26%20ML-C77DFF?style=flat-square">
+<img src="https://img.shields.io/badge/Agriculture-7C3AED?style=flat-square">
 
 </div>
 
-An AI-powered agriculture platform designed to help users make smarter agricultural decisions using **environmental and agricultural data**.
+An AI-powered agriculture platform that uses **environmental and agricultural data** to support smarter farming decisions.
 
-**Highlights**
+**What it does**
 
-- Intelligent crop recommendations
-- Weather-aware decision support
-- Agricultural data analysis
-- AI-powered recommendations
-- Real-time insights
-
-**Focus:** AI · Machine Learning · Agriculture
+- 🌱 Crop recommendations
+- 🌦️ Weather-aware insights
+- 📊 Agricultural data analysis
+- 🧠 AI decision support
 
 <div align="center">
 
 <a href="https://github.com/velmurugansurendhar123-dotcom/agriwise-backend">
-  <img src="https://img.shields.io/badge/View%20Project-C77DFF?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-FF6EC7?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
 
 </td>
 
-<td width="33%" valign="top">
+<td width="33.33%" valign="top">
 
 <div align="center">
 
@@ -287,24 +292,24 @@ An AI-powered agriculture platform designed to help users make smarter agricultu
 
 **AI Commute Planner**
 
+<img src="https://img.shields.io/badge/AI-C77DFF?style=flat-square">
+<img src="https://img.shields.io/badge/Agentic%20AI-7C3AED?style=flat-square">
+
 </div>
 
-An intelligent commute and travel application designed to make everyday route planning **simpler, smarter and more convenient**.
+An intelligent commute and travel application designed to make everyday mobility **simpler, smarter, and more convenient**.
 
-**Highlights**
+**What it does**
 
-- AI-assisted commute planning
-- Travel and route assistance
-- Intelligent recommendations
-- Modern application experience
-- Future-ready Agentic AI possibilities
-
-**Focus:** AI · Mobility · Intelligent Applications
+- 🗺️ Smart commute planning
+- 🚗 Travel assistance
+- 🤖 Intelligent recommendations
+- 📍 Route-focused experience
 
 <div align="center">
 
 <a href="https://github.com/velmurugansurendhar123-dotcom/bookie">
-  <img src="https://img.shields.io/badge/View%20Project-C77DFF?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-FF6EC7?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
@@ -313,6 +318,11 @@ An intelligent commute and travel application designed to make everyday route pl
 
 </tr>
 </table>
+
+
+
+
+
 
 <br>
 
