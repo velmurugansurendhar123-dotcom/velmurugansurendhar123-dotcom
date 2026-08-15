@@ -429,17 +429,9 @@ An intelligent commute and travel application designed to make everyday route pl
 
 <div align="center">
 
-<a href="https://github.com/velmurugansurendhar123-dotcom">
-  <img height="180"
-       src="https://github-readme-stats.vercel.app/api?username=velmurugansurendhar123-dotcom&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&bg_color=0B0B12&title_color=C77DFF&text_color=F8F7FF&icon_color=FF6EC7&cache_seconds=600"
-       alt="Velmurugan's GitHub Stats">
-</a>
-
-<a href="https://github.com/velmurugansurendhar123-dotcom">
-  <img height="180"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=velmurugansurendhar123-dotcom&layout=compact&langs_count=6&hide_border=true&bg_color=0B0B12&title_color=C77DFF&text_color=F8F7FF&icon_color=FF6EC7&cache_seconds=600"
-       alt="Top Languages">
-</a>
+<p>
+  <strong>Building consistently. Learning continuously. Contributing progressively. 🚀</strong>
+</p>
 
 </div>
 
