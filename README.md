@@ -92,7 +92,7 @@ I don't just want to build models — I want to build **useful, deployable and i
 <td width="35%" align="center">
 
 <!-- Replace this URL when your profile picture is ready -->
-<img src="YOUR_PROFILE_IMAGE_URL"
+<img src="./profile.png"
      width="220"
      alt="Velmurugan Surendhar">
 
