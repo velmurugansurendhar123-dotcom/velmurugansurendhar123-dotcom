@@ -1,4 +1,4 @@
-```markdown
+
 <!-- =========================================================
      VELMURUGAN SURENDHAR — GITHUB PROFILE README
      Theme: Midnight Aurora
@@ -647,4 +647,4 @@ will be generated in the root of this profile repository.
 <!-- =========================================================
      END OF PROFILE README
      ========================================================= -->
-```
+
