@@ -605,10 +605,15 @@ will be generated in the root of this profile repository.
 <!-- =========================
      CONNECT
      ========================= -->
-
 <div align="center">
 
 ## 🌐 Let's Connect
+
+<p>
+  <i>Let's connect, collaborate and build something meaningful.</i>
+</p>
+
+<br>
 
 <a href="https://www.linkedin.com/in/velmurugan-surendhar-s-194356360/">
   <img src="https://img.shields.io/badge/LinkedIn-C77DFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -624,9 +629,13 @@ will be generated in the root of this profile repository.
 
 <br><br>
 
-### 💜 Open to learning, building and collaborating on meaningful technology.
+<p>
+  💜 <strong>Open to learning, building and collaborating on meaningful technology.</strong>
+</p>
 
 </div>
+
+
 
 <br>
 
