@@ -1,9 +1,12 @@
 name: Generate Contribution Snake
 
 on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch:
 
 permissions:
   contents: write
@@ -16,9 +19,9 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: velmurugansurendhar123-dotcom
           outputs: |
-            github-snake.svg?palette=github-dark&color_snake=FF6EC7&color_dots=#171321,#C77DFF,#B76BDB,#FF6EC7,#F8F7FF
+            github-snake.svg?color_snake=FF6EC7&color_dots=#171321,#C77DFF,#B76BDB,#FF6EC7,#F8F7FF
 
       - name: Commit Snake
         uses: EndBug/add-and-commit@v9
