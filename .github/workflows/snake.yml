@@ -26,7 +26,7 @@ jobs:
         with:
           github_user_name: velmurugansurendhar123-dotcom
           outputs: |
-            github-snake.svg?color_snake=FF6EC7&color_dots=#171321,#C77DFF,#B76BDB,#FF6EC7,#F8F7FF
+            github-snake.svg?color_snake=FF6EC7&color_dots=#171321,#342044,#6B3FA0,#C77DFF,#FF6EC7
 
       - name: Commit Snake
         uses: EndBug/add-and-commit@v9
