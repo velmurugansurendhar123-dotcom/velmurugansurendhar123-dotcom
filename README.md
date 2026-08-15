@@ -11,9 +11,9 @@
      ========================= -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="YOUR_DARK_BANNER_URL">
-  <source media="(prefers-color-scheme: light)" srcset="YOUR_LIGHT_BANNER_URL">
-  <img src="YOUR_LIGHT_BANNER_URL" width="100%" alt="Velmurugan Surendhar — AI & ML Developer">
+  <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./banner-light.png">
+  <img src="./banner-light.png" width="100%" alt="Velmurugan Surendhar — AI & ML Developer">
 </picture>
 
 <br>
